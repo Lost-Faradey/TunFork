@@ -4,9 +4,9 @@ AmneziaWG tunnel management utility with flexible traffic routing.
 
 ## Features
 
-- 🎮 **Split tunneling** — selected services via VPN, games direct
+- 🎮 **Split tunneling** — selected services via tunnel, games direct
 - 🛡 **Auto-heal** — monitors tunnel and recovers on failure
-- 🔍 **Leak detector** — finds IPs bypassing the VPN
+- 🔍 **Leak detector** — finds IPs bypassing the tunnel
 - 🔑 **Licensing** — 3-day trial via Telegram bot @TunFork_bot
 
 ## Requirements
